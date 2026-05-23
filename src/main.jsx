@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 import App from "./App"
 import Birthday from "./pages/Birthday"
-import Sad from "./pages/Sad"
+import Sad from "./pages/sad"
 import Nervous from "./pages/Nervous"
 import Bored from "./pages/Bored"
 import MissMe from "./pages/MissMe"
