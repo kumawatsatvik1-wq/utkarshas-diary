@@ -54,9 +54,13 @@ function Nervous() {
           maxWidth: "700px",
         }}
       >
-        Woah woah woah, You? NERVOUS? FOR WHAT?! Look at those medals hanging in your room, those are physical evidence of how awesome you are.
+        Woah woah woah, You? NERVOUS? FOR WHAT?! THIS DOESNT SUIT YOU AT ALL! Look at those medals hanging in your room, those are physical evidence of how awesome you are.
         <br />
-        I'm sure youre gonna kill whatever has got you tensed, I mean atleast the history says that you always do so.. YOU GOT THIS!!
+        I'm sure youre gonna kill whatever has got you tensed, I mean atleast the history says that you always do so.
+        <br />
+        And lets be real, The WORST that can happen is that you hit rock bottom, but rock bottom aint so bad if you like collecting rocks. Go face whatever challenges you have right now and be bold and free.
+        <br />
+        YOU GOT THISS!!!!
       </p>
     </div>
   )

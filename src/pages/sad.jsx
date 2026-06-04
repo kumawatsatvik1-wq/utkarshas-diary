@@ -56,9 +56,9 @@ function Sad() {
       >
         Okay so idk why you are sad but if youre reading this, I just want to let you know that I literally percieve you as a ball of sunshine.
         <br />
-        That doesnt mean you are not allowed to be sad tho, I mean even Sun has solar eclipses every now and then, infact I'd say if its you who spreads happiness all around, then I would like to be the one to bring a smile upon your face.
+        That doesnt mean you are not allowed to be sad tho, I mean even Sun has solar eclipses every now and then, it becomes all dark and gloomy, but it always recovers. Infact I'd say if its you who spreads happiness all around, then I would like to be the one to bring a smile upon your face.
         <br />
-        If it ever gets too much to handle you can always reach out to me yk, we'd solve whatever it is together like we always do.
+        Just remember that when an atom loses an electron, it gains a positive charge, but it becomes unstable. Similarly, youre down right now but you'll be back stronger. If it ever gets too much for you to handle you can always reach out to me yk, we'd solve whatever it is together like we always do, our therapy sessions are NEVER gonna be a burden for me.
       </p>
     </div>
   )

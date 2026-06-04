@@ -56,7 +56,7 @@ function MissMe() {
       >
         I am pretty sure you dont miss "me", you just probably miss "bullying" me like you are doing in this photo.
         <br />
-        You know whenever we are together, I always remember the lyrics of a song which go like "Have I known you twenty seconds or twenty years." You are already a part of my daily life.
+        You know whenever we are together, I always remember the lyrics of a song which go like "Have I known you twenty seconds or twenty years." You are already a part of my daily life. I have to admit that even I miss you sometimes, the chaos, the laughs and the atmosphere you bring into my life along with a billion other things are all i think about on a random Tuesday. If you ever get random hiccups, just know it was me hehe.
         <br />
         <img
   src="/photos/us.jpg"

@@ -54,9 +54,13 @@ function Memory() {
           maxWidth: "700px",
         }}
       >
-        Memories huhh. We dont have much yet but whatever we have are all special for me. If i had to choose my fav, it'd probably be the time when you just asked me and Riddhi to play a game in which we had to say a degen word with each alphabet. That was so weird and funny at the same time lol.
+        Memories huhh. We dont have much yet but whatever we have are all special for me. If i had to choose my fav, it'd probably be the time when we went to that park to do nothing but wander around aimlessly. I had so much fun that day, the random talks, the running, DABELI, you falling onto me lmao that was funny. The best part of that day for me was being your listener, probably my fav job, I cant look around whenever you talk coz I'm focused on you. Maybe that's why I remember our every conversation. Oh and the day when you just asked me and Riddhi to play a game in which we had to say a degen word with each alphabet. That was so weird and funny at the same time lol.
         <br />
-        Cant forget the time when we teamed up against Samadhan Sir during the UNO incident, arguing with him was hella fun lol
+        Cant forget the time when we teamed up against Samadhan Sir during the UNO incident, arguing with him was hella fun lol. 
+        <br />
+        You waking me up to ask doubts during our practical exams even tho it's you who scores 10 GPA, I could get used to that yk, I mean hearing your voice the first thing in the morning doesnt sound too bad.
+        <br />
+        Then there are the cultural days, how could I forget those. It was when we actually got closer and became like actual friends. You handing me your purse and handbags the moment you saw me was something special or honourable ig lol. Let's not forget the iconic moment of me confronting the 5/5 confidence guy, can't believe bro called me thrice and hasn't talked to me since.
         <br />
         OH AND WE CANT FORGET ABOUT THE 2ND PRICE WE WON IN THE SEMINAR!! I dont think I would have even participated in that if you hadnt called me.
         <br />

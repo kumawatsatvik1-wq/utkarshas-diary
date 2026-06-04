@@ -56,7 +56,7 @@ function Bored() {
       >
         I dont even know where to begin with this "Bore ho raha hai yaar" issue. I'd say stop flirting with random guys whenever you are bored, what if someday you flirt someone who actually likes you lol. 
         <br />
-        Want some alternatives for that? PLAY GAMES WITH ME!! I'd literally play any kind of game with you, and I'm probably better at it than you so yk lemme carry you bbg. 
+        Want some alternatives for that? PLAY GAMES WITH ME!! I'd literally play any kind of game with you, and I'm probably better at it than you so yk lemme carry you bbg. We can even hangout and go to movies together. WE CAN ALSO PLAY BADMINTON!
       </p>
     </div>
   )

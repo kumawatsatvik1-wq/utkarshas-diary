@@ -77,6 +77,15 @@ I love how you find joy in the smallest of things. Your chaotic energy really ma
 <br /><br />
 
 Oh and people may call you "Nepali" but I really love your eyes. The world probably looks better from your POV.
+<br /><br />
+
+Your hair. I love playing with your hair. They're really soft to touch.
+<br /><br />
+
+And the way you cannot pronounce some words, I find that really cute lol.
+<br /><br />
+
+Btw you know how much I love space, like I reaaaaalllyyy love space, it's also the reason why I chose to make this website space-themed, because ily, not just a specific part of you, but the entirity of you, from every last strand of hair on your head to the bottom of your toes, every emotional side of you, every single unfunny joke you've ever cracked, every bad decision you have ever made, every clumsy fall you've ever had. I LOVE IT ALL.
       </p>
     </div>
   )

@@ -57,6 +57,8 @@ function Mad() {
         So idk why you are mad at me, all ik is that its probably about something small and stupid.
         <br />
         So yeah I'm sorry I guess. Trust me, the Satvik writing this is wiser than the Satvik who made you mad, and this wiser Satvik is telling you to forgive him hehe. Like cmon we know you cant stay mad at meeeee.
+        <br />
+        BUT if this is about something serious then I believe that a clarity that hurts you is always better than a hopeful confusion that holds you. Small misunderstandings and miscommunication may have made us argue. Lets not assume things about each other and talk it all out like adults okay? There's nothing in this world that we cant solve by talking it out.
       </p>
     </div>
   )

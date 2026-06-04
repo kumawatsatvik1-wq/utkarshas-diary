@@ -117,7 +117,7 @@ if (index === 8) {
   fontFamily: "'Poppins', sans-serif",
   cursor: "pointer",
   transition: "all 0.3s ease",
-  boxShadow: "0 0 10px rgba(139, 139, 209, 0.2)", 
+  boxShadow: "0 0 10px rgba(139, 139, 209, 0.2)",  
 }}
     >
   <div
