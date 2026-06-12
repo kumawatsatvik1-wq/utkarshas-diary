@@ -88,7 +88,7 @@ And the way you cannot pronounce some words, I find that really cute lol.
 If i could give you one thing, I'd give you the ability to see yourself through my eyes so you know HOW special you are.
 <br /><br />
 
-Btw you know how much I love space, like I reaaaaalllyyy love space, it's also the reason why I chose to make this website space-themed, because I love you, not just a specific part of you, but the entirity of you, from every last strand of hair on your head to the bottom of your toes, every emotional side of you, every single unfunny joke you've ever cracked, every bad decision you have ever made, every clumsy fall you've ever had. I LOVE IT ALL.
+Btw you know how much I love space, like I reaaaaalllyyy love space, it's also the reason why I chose to make this website space-themed, because I LOVE YOU, not just a specific part of you, but the entirity of you, from every last strand of hair on your head to the bottom of your toes, every emotional side of you, every single unfunny joke you've ever cracked, every bad decision you have ever made, every clumsy fall you've ever had. I LOVE IT ALL.
       </p>
     </div>
   )
